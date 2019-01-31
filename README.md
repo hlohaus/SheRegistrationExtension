@@ -1,6 +1,6 @@
 # Registration Extension
 
-![Preview](Resources/store/images/backend-config.png)
+![Preview](Resources/store/images/frontend.png)
 
 Features:
 - Zip code validation with pattern and error message
