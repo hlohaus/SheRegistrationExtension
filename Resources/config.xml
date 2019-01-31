@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="../../../../engine/Shopware/Components/Plugin/schema/config.xsd">
+    <elements>
+        <element type="boolean">
+            <name>zip_code_validation</name>
+            <label>Zip code validation</label>
+            <label lang="de">PLZ-Validierung</label>
+            <value>1</value>
+        </element>
+        <element type="boolean">
+            <name>capitalize_first_name</name>
+            <label>Capitalize first name</label>
+            <label lang="de">Großschreibung für Vorname</label>
+            <value>1</value>
+        </element>
+        <element type="boolean">
+            <name>capitalize_last_name</name>
+            <label>Capitalize last name</label>
+            <label lang="de">Großschreibung für Nachname</label>
+            <value>1</value>
+        </element>
+        <element type="boolean">
+            <name>capitalize_street</name>
+            <label>Capitalize street</label>
+            <label lang="de">Großschreibung für Straße</label>
+            <value>1</value>
+        </element>
+        <element type="boolean">
+            <name>capitalize_city</name>
+            <label>Capitalize city</label>
+            <label lang="de">Großschreibung für Stadt</label>
+            <value>1</value>
+        </element>
+    </elements>
+</config>

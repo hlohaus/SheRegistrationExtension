@@ -1,0 +1,20 @@
+.register--firstname input, .address--firstname input {
+  & when (@capitalize_first_name = 1) {
+    text-transform: capitalize;
+  }
+}
+.register--lastname input, .address--lastname input {
+  & when (@capitalize_last_name = 1) {
+    text-transform: capitalize;
+  }
+}
+.register--street input, .address--street input {
+  & when (@capitalize_street = 1) {
+    text-transform: capitalize;
+  }
+}
+#city {
+  & when (@capitalize_city = 1) {
+    text-transform: capitalize;
+  }
+}
