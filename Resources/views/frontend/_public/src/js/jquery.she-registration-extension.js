@@ -6,8 +6,6 @@ countryElement.on('change', function () {
 
     var configEl = $('*[data-sheZipCodeCountryId="' + countryId +'"]');
 
-    console.log(countryName, configEl);
-
     if (configEl.length) {
         zipElement.attr('pattern', configEl.data('pattern'));
         zipElement.attr('title', configEl.data('title').replace('{countryName}', countryName));
