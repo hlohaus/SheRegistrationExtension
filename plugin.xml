@@ -20,4 +20,18 @@
             ]]>
         </changes>
     </changelog>
+    <description>
+        <![CDATA[
+Features:
+- Zip code validation with pattern and error message
+- Capitalized first name, last name, street and city
+   ]]>
+    </description>
+    <description lang="de">
+        <![CDATA[
+Features:
+- PLZ-Validierung mit RegEx-Pattern und Fehlermeldung
+- Großschreibung für Vorname, Nachname, Straße und Ort
+   ]]>
+    </description>
 </plugin>
