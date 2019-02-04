@@ -15,7 +15,7 @@ More features? Create an issue.
 
 ## Installation
 
-- Download latest release
+- Download latest release from [Store](https://store.shopware.com/en/she5073062884247f/registration-zip-code-validation-and-capitalization.html)
 - Extract the zip file in `shopware_folder/custom/plugins/`
 
 

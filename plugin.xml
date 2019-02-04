@@ -4,6 +4,7 @@
     <label>Registration: Zip code validation and capitalization</label>
     <label lang="de">Registrierung: PLZ-Validierung und Großschreibung</label>
     <version>1.0.0</version>
+    <copyright>S.HE Business GmbH</copyright>
     <license>MIT</license>
     <link>https://she-business.com/</link>
     <author>S.HE Business GmbH</author>
