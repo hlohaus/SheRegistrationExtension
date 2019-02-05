@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
     <label>Registration: Zip code validation and capitalization</label>
     <label lang="de">Registrierung: PLZ-Validierung und Großschreibung</label>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <copyright>S.HE Business GmbH</copyright>
     <license>MIT</license>
     <link>https://she-business.com/</link>
@@ -18,6 +18,18 @@
         <changes lang="de">
             <![CDATA[
                 <div>Erstveröffentlichung</div>
+            ]]>
+        </changes>
+    </changelog>
+    <changelog version="1.0.1">
+        <changes>
+            <![CDATA[
+                <div>Fix template issue</div>
+            ]]>
+        </changes>
+        <changes lang="de">
+            <![CDATA[
+                <div>Template-Fehler behoben</div>
             ]]>
         </changes>
     </changelog>
